@@ -25,17 +25,17 @@ __Everything you need to test it once is right here:__
 
 __1. **Clone the repo**:__
 __ - Open a terminal and run:__
-__git clone https://github.com/yourusername/kwin-opacity-fix.git__
+__``git clone https://github.com/yourusername/kwin-opacity-fix.git``__
 
 __- Move into the folder:__
 
 __2. **Make it executable**:__
 __- Run this in the terminal:__
+__``chmod +x opacity_manager.sh``__
 
 __3. **Run it once**:__
 __- Start the script with:__
-
-__./kwin_opacity_fix.sh__
+__``./kwin_opacity_fix.sh``__
 
 __- Open some apps it targets (like Brave or Telegram) while it runs to see the opacity kick in.__
 
@@ -67,9 +67,9 @@ __- Log back in. The script runs automatically and tweaks opacity.__
 __1. **Move the script** (optional, same as above):__
 __- Make a folder:__
 __- Move it:__
-__mkdir -p ~/Scripts__
-__mv kwin_opacity_fix.sh ~/Scripts/__
-__ln -s ~/Scripts/kwin_opacity_fix.sh ~/.config/autostart-scripts/__
+__``mkdir -p ~/Scripts__``__
+__``mv kwin_opacity_fix.sh ~/Scripts/__``__
+__``ln -s ~/Scripts/kwin_opacity_fix.sh ~/.config/autostart-scripts/__``__
 
 
 __2. **Test it**:__
