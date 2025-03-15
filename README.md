@@ -25,7 +25,7 @@ __Everything you need to test it once is right here:__
 
 __1. **Clone the repo**:__
 __ - Open a terminal and run:__
-__ - git clone https://github.com/yourusername/kwin-opacity-fix.git__
+__git clone https://github.com/yourusername/kwin-opacity-fix.git__
 
 __- Move into the folder:__
 
