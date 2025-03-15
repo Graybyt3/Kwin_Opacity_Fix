@@ -67,9 +67,9 @@ __- Log back in. The script runs automatically and tweaks opacity.__
 __1. **Move the script** (optional, same as above):__
 __- Make a folder:__
 __- Move it:__
-__`mkdir -p ~/Scripts`__
-__``mv kwin_opacity_fix.sh ~/Scripts/`__
-__``ln -s ~/Scripts/kwin_opacity_fix.sh ~/.config/autostart-scripts/``__
+__`mkdir -p ~/Scripts`__  
+__``mv kwin_opacity_fix.sh ~/Scripts/``__  
+__``ln -s ~/Scripts/kwin_opacity_fix.sh ~/.config/autostart-scripts/``__  
 
 __2. **Test it**:__
 __- Log out:__
