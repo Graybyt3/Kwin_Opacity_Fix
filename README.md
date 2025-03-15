@@ -25,7 +25,7 @@ __Everything you need to test it once is right here:__
 
 __1. **Clone the repo**:__
 __ - Open a terminal and run:__
-__``git clone https://github.com/yourusername/kwin-opacity-fix.git``__
+__``git clone https://github.com/Graybyt3/Kwin_Opacity_Fix``__
 
 __- Move into the folder:__
 
@@ -67,10 +67,9 @@ __- Log back in. The script runs automatically and tweaks opacity.__
 __1. **Move the script** (optional, same as above):__
 __- Make a folder:__
 __- Move it:__
-__``mkdir -p ~/Scripts__``__
-__``mv kwin_opacity_fix.sh ~/Scripts/__``__
-__``ln -s ~/Scripts/kwin_opacity_fix.sh ~/.config/autostart-scripts/__``__
-
+__``mkdir -p ~/Scripts``__
+__``mv kwin_opacity_fix.sh ~/Scripts/``__
+__``ln -s ~/Scripts/kwin_opacity_fix.sh ~/.config/autostart-scripts/``__
 
 __2. **Test it**:__
 __- Log out:__
