@@ -15,8 +15,8 @@ __- Runs until all target apps are handled, then bails.__
 
 __- KDE desktop with KWin on X11 (tested on Garuda Linux).__
 __- Tools needed: `xdotool`, `xprop`, `xwininfo`, `kwin_x11`. Install them with this command:__
-__  ```bash__
-__  sudo pacman -S xdotool xorg-xprop xorg-xwininfo kwin__
+
+``sudo pacman -S xdotool xorg-xprop xorg-xwininfo kwin``
 
 __- Bash (already on Linux, no install needed).__
 
