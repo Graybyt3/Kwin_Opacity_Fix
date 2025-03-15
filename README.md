@@ -20,7 +20,7 @@ __  sudo pacman -S xdotool xorg-xprop xorg-xwininfo kwin__
 
 __- Bash (already on Linux, no install needed).__
 
-__## 🏃‍➡️ How to Run for Testing (One-Time)__
+# 🏃‍➡️ How to Run for Testing (One-Time)
 __Everything you need to test it once is right here:__
 
 __1. **Clone the repo**:__
@@ -44,10 +44,9 @@ __- Look at the log file it makes:__
 
 __- You’ll see what it did—opacity changes, errors, or whatever. It stops when all listed apps are done or if no windows show up.__
 
-__## Adding to Autostart (KDE)__
-__If you like it and want it to run every time you log into KDE, follow these steps:__
 
-### 👾 GUI Method
+
+# 👾 Adding to Autostart (KDE)- GUI Method
 
 __1. **Open KDE System Settings**:__
 __- Open the app called `System Settings` (find it in your menu).__
@@ -62,8 +61,9 @@ __- Click `OK`.__
 __3. **Test it**:__
 __- Log out of KDE (click your user, then `Log Out`).__
 __- Log back in. The script runs automatically and tweaks opacity.__
-____
-### 🥷🏽 Terminal Method
+
+
+# 🥷🏽 Terminal Method
 __1. **Move the script** (optional, same as above):__
 __- Make a folder:__
 __- Move it:__
